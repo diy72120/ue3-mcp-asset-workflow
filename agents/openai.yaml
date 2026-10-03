@@ -1,4 +1,0 @@
-interface:
-  display_name: "UE3 MCP 资产操作经验"
-  short_description: "通过真实引用定位和最小修改操作 UE3 资产，区分数据、视觉与保存证据"
-  default_prompt: "使用 $ue3-mcp-asset-workflow，通过当前 MCP 对象与引用证据完成我的 UE3 资产操作，按需检查视觉结果和保存状态。"
