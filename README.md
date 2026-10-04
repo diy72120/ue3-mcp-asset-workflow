@@ -12,6 +12,7 @@ ue3-mcp-asset-workflow/
   references/
     visual-diagnosis.md      # 视觉归因：颜色多来源排查表
     model-placement.md       # 模型替换、正面、镜像与局部效果定位
+    asset-discovery-effects.md # 缓存资源发现、局部动效复用与验证
   agents/
     openai.yaml              # Codex 侧接口描述
 AGENTS.md                   # Codex / MuseAI 共同维护规则（必读）
