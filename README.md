@@ -14,6 +14,7 @@ ue3-mcp-asset-workflow/
     model-placement.md       # 模型替换、正面、镜像与局部效果定位
     asset-discovery-effects.md # 缓存资源发现、局部动效复用与验证
     texture-mapping-rebake.md  # 换肤映射、UV 畸变与重烘焙判断
+    animation-persistence.md  # 动画联动、跨层引用与部署持久化排查
   agents/
     openai.yaml              # Codex 侧接口描述
 AGENTS.md                   # Codex / MuseAI 共同维护规则（必读）
